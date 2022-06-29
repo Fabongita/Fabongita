@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fabongita
 - 👀 I’m interested in ... games
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... html and css
 - 📫 How to reach me ... messenger
 
 <!---
